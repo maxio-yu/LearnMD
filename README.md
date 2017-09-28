@@ -65,9 +65,11 @@ this line and above line don't have leading >
 
 ## Table
     |Date|Location|People|Thing|
+    |---|---|---|---|
     |1213|Jingmen|Max|Born|
     |0201|Dalian|Lynn|Born|
 |Date|Location|People|Thing|
+|---|---|---|---|
 |1213|Jingmen|Max|Born|
 |0201|Dalian|Lynn|Born|
 
